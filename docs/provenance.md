@@ -17,5 +17,6 @@ The reference revision is `9d2258b3635f6b4d75c25d0945c2bbdc94251f89` in the raed
 | --- | --- | --- |
 | 25 Nov 2026 | Member 1 integration foundation | Shared schemas, route classifier, bounded orchestrator, JSON checkpoints, fixture adapters, notebook, architecture figure and workflow tests |
 | 25 Nov 2026 | Reusability and public release checks | Catalogue injection, typed requirements and candidate facts, ranking before truncation, version and evidence checks at approval, clean-install and cross-occupation tests |
+| 26 Nov 2026 | Member 3 application preparation | `LivePreparation` with one bounded ADK call and a deterministic evidence guard, preparation and revision prompts, resume parser, Markdown/JSON export, 8 labelled preparation cases and module tests ([module notes](preparation.md)). Written for this assignment with AI coding assistance, which is disclosed on the final video slide. Ranking and ATS answer rules are reused from Member 1's `replay.py`. |
 
 The example employer names, job listings, skills records and permission answer are fictional. Source IDs exist to make the examples traceable within the prototype.

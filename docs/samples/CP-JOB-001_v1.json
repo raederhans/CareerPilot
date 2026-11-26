@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "exported_at": "2026-11-26T15:35:27+00:00",
+    "model": "gemini-3.1-flash-lite",
+    "generated_on": "2026-11-26",
+    "total_token_count": 1312,
+    "note": "Initial draft. Work authorisation is unconfirmed, so its ATS answer stays empty. Guard removed: none"
+  },
+  "job": {
+    "job_id": "CP-JOB-001",
+    "title": "AI Engineering Intern",
+    "company": "Northstar Labs (synthetic)"
+  },
+  "package": {
+    "job_id": "CP-JOB-001",
+    "resume_draft": "# Resume draft for AI Engineering Intern\n\n## Relevant evidence\n- Completed Python programming coursework focusing on data structures and scripting. [CP-EV-001]\n- Executed a machine learning project that involved comparing various supervised classification models. [CP-EV-002]\n- Applied database management techniques using SQL during academic coursework. [CP-EV-003]",
+    "cover_letter": "# Cover letter draft for AI Engineering Intern at Northstar Labs (synthetic)\n\nDear Hiring Team,\n\nI am writing to express my interest in the AI Engineering Intern position at Northstar Labs. My academic background includes coursework in Python programming, where I developed a foundation in data structures and scripting. [CP-EV-001]\n\nI have also gained practical experience in machine learning through a project comparing supervised classification models. [CP-EV-002] I look forward to contributing my technical skills to your team and learning from the projects at Northstar Labs.\n\nSincerely,\nThe candidate",
+    "ats_answers": {
+      "Are you authorised to work in Singapore?": null
+    },
+    "claim_evidence": {
+      "Completed Python programming coursework focusing on data structures and scripting.": [
+        "CP-EV-001"
+      ],
+      "Executed a machine learning project that involved comparing various supervised classification models.": [
+        "CP-EV-002"
+      ],
+      "Applied database management techniques using SQL during academic coursework.": [
+        "CP-EV-003"
+      ],
+      "My academic background includes coursework in Python programming, where I developed a foundation in data structures and scripting.": [
+        "CP-EV-001"
+      ],
+      "I have also gained practical experience in machine learning through a project comparing supervised classification models.": [
+        "CP-EV-002"
+      ]
+    },
+    "version": 1
+  },
+  "evidence_map": [
+    {
+      "claim": "Completed Python programming coursework focusing on data structures and scripting.",
+      "sources": [
+        {
+          "evidence_id": "CP-EV-001",
+          "text": "Completed Python programming coursework covering data structures and basic scripting.",
+          "provenance": "Synthetic university coursework record created for the CareerPilot replay demo."
+        }
+      ]
+    },
+    {
+      "claim": "Executed a machine learning project that involved comparing various supervised classification models.",
+      "sources": [
+        {
+          "evidence_id": "CP-EV-002",
+          "text": "Completed a machine learning course project comparing supervised classification models.",
+          "provenance": "Synthetic course-project summary created for the CareerPilot replay demo."
+        }
+      ]
+    },
+    {
+      "claim": "Applied database management techniques using SQL during academic coursework.",
+      "sources": [
+        {
+          "evidence_id": "CP-EV-003",
+          "text": "Used SQL in a database fundamentals course.",
+          "provenance": "Synthetic university coursework record created for the CareerPilot replay demo."
+        }
+      ]
+    },
+    {
+      "claim": "My academic background includes coursework in Python programming, where I developed a foundation in data structures and scripting.",
+      "sources": [
+        {
+          "evidence_id": "CP-EV-001",
+          "text": "Completed Python programming coursework covering data structures and basic scripting.",
+          "provenance": "Synthetic university coursework record created for the CareerPilot replay demo."
+        }
+      ]
+    },
+    {
+      "claim": "I have also gained practical experience in machine learning through a project comparing supervised classification models.",
+      "sources": [
+        {
+          "evidence_id": "CP-EV-002",
+          "text": "Completed a machine learning course project comparing supervised classification models.",
+          "provenance": "Synthetic course-project summary created for the CareerPilot replay demo."
+        }
+      ]
+    }
+  ]
+}
